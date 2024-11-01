@@ -25,5 +25,4 @@ Through this project, I aimed to bridge the gap between theoretical concepts and
 To get started with the content in this repository, clone the repository and run the Jupyter notebooks or Python scripts provided.
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
+https://www.facebook.com/
