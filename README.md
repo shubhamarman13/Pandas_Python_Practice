@@ -24,5 +24,13 @@ Through this project, I aimed to bridge the gap between theoretical concepts and
 ## Getting Started
 To get started with the content in this repository, clone the repository and run the Jupyter notebooks or Python scripts provided.
 
+## Social Media
+Feel free to connect with me on my social media accounts:
+
+- **Facebook**: [Shubham Arman](https://www.facebook.com/shubham.arman/)
+- **Instagram**: [@yourusername](https://www.instagram.com/) (Update with your actual username)
+- **LinkedIn**: [Shubham Arman](https://www.linkedin.com/in/shubhamarman/)
+- **YouTube**: [The Upcoming Programmer](https://www.youtube.com/@THEUPCOMINGPROGRAMMER)
+- **Website**: [The Upcoming Programmer](https://theupcomingprogrammer.com/)
 ```bash
-https://www.facebook.com/
+
